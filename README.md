@@ -1,0 +1,1 @@
+# aspnet-thumbnail-generator
