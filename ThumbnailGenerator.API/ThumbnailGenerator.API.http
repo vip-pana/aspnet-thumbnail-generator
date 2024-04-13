@@ -1,0 +1,6 @@
+@ThumbnailGenerator.API_HostAddress = http://localhost:5185
+
+GET {{ThumbnailGenerator.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
